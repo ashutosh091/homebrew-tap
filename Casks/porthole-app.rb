@@ -1,6 +1,6 @@
 cask "porthole-app" do
-  version "0.1.0"
-  sha256 "b4974d4387625a28ae4c0e1bab3bc85299ad11a08aeea33abf51ed6d2b88513f"
+  version "0.1.1"
+  sha256 "b9d1abc27b8a108b918bf8cf3186a6bf62af93557c547c837c4050248dc22396"
 
   url "https://github.com/ashutosh091/porthole/releases/download/v#{version}/Porthole-macos.dmg"
   name "Porthole"

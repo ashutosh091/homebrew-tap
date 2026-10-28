@@ -3,8 +3,8 @@ class Porthole < Formula
 
   desc "Open a browser window through another region without a system VPN"
   homepage "https://ashutosh091.github.io/porthole"
-  url "https://github.com/ashutosh091/porthole/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b5cbc972590ad4df218ef4f78c86be0adfe28b253adf0166ecaf7410e2c29d50"
+  url "https://github.com/ashutosh091/porthole/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "ce2a86a2e11ea063aba4bf163604af1a5b5db75ef75f8fe8a89acb241793f7b1"
   license "MIT"
 
   depends_on :macos
