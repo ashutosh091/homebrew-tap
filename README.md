@@ -5,7 +5,7 @@ Homebrew packages for [Porthole](https://github.com/ashutosh091/porthole): open 
 ```bash
 brew tap ashutosh091/tap && brew trust ashutosh091/tap   # Homebrew 7+ asks you to trust third-party taps
 brew install ashutosh091/tap/porthole            # CLI
-brew install --cask ashutosh091/tap/porthole     # desktop app
+brew install --cask ashutosh091/tap/porthole-app     # desktop app
 ```
 
 The formulae are updated automatically when Porthole is released.

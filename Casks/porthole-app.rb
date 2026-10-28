@@ -1,4 +1,4 @@
-cask "porthole" do
+cask "porthole-app" do
   version "0.1.0"
   sha256 "b4974d4387625a28ae4c0e1bab3bc85299ad11a08aeea33abf51ed6d2b88513f"
 
